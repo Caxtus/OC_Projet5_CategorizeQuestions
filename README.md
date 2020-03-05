@@ -1,5 +1,5 @@
 # OC_Projet5_CategorizeQuestions
-OpenClassroom Projetc - Machine Learning Engineer - Categorize questions with StackOverflow
+OpenClassroom Project - Machine Learning Engineer - Categorize questions with StackOverflow
 
 ## I. The datasets
 In this project, 3 datasets are used.
